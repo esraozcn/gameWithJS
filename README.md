@@ -22,4 +22,10 @@ https://esraozcn.github.io/gameWithJS/
 
 JS,HTML,CSS
 
+#OYUN FOTOĞRAFLARI
 
+
+![MemoryGameBefore](https://github.com/esraozcn/gameWithJS/assets/117382560/e7fa956d-0b68-4342-8913-ae6be9bcc82a)
+
+
+![MemoryGameAfter](https://github.com/esraozcn/gameWithJS/assets/117382560/58c8a466-b995-499b-8a78-ca6cbd32330e)
