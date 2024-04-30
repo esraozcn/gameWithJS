@@ -1,0 +1,78 @@
+.oyun-karti {
+  width: calc(100% / 8 - 2px); 
+  height: 150px; 
+  background-color:  #FFC0CB; 
+  margin: 1px;
+  display: inline-block;
+  text-align: center;
+  cursor: pointer;
+  position: relative;
+}
+
+.oyun-karti.acik {
+  background-color: #ffffff;
+}
+
+.oyun-karti span {
+  font-family: 'Bauhaus 93', sans-serif;
+  font-size: 80px; 
+  position: absolute; 
+  top: 50%;
+  left: 50%; 
+  transform: translate(-50%, -50%); 
+  color: #800080;
+}
+
+#skor-alani {
+  font-size: 80px; 
+  font-family: 'Bauhaus 93', cursive;
+  text-align: right;
+  color: #FFA500; 
+}
+
+#süreGöstergesi {
+  font-size:50px;
+  font-family: 'Bauhaus 93', cursive;
+  color: #FFA500;
+}
+
+.oyun-karti img {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.button {
+  background-color: #FF4500; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: left;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  }
+
+
+.button:hover {
+  background-color: #FF6347; 
+}
+
+
+/* Arka plan rengi */
+body {
+  background-color: #000000; 
+}
+
+#oyun-aciklama {
+  position: fixed;
+  bottom: 10px;
+  right: 10px;
+  background-color: rgba(0, 0, 0, 0.5); 
+  color: white;
+  padding: 10px;
+  font-size: 14px;
+  font-family: Arial, sans-serif;
+}
+
